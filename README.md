@@ -25,7 +25,7 @@ Before you begin, ensure you have the following Python libraries installed:
 
 You can install these packages using pip:
 
-bashCopy code
+bash
 
 `pip install pandas numpy matplotlib scikit-learn`
 
@@ -38,7 +38,7 @@ To use this notebook:
 2.  Ensure you have Jupyter Notebook or JupyterLab installed.
 3.  Navigate to the directory containing the notebook and launch it using Jupyter:
     
-    bashCopy code
+    bash
     
     `jupyter notebook Modelling_autism_in_adults.ipynb`
     
